@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "boring_more_vanilla_shields:leather_shield",
+    "boring_more_vanilla_shields:copper_shield",
+    "boring_more_vanilla_shields:golden_shield",
+    "boring_more_vanilla_shields:diamond_shield",
+    "boring_more_vanilla_shields:netherite_shield"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": ["PGP", "PPP", " P "],
+  "key": {
+    "G": { "item": "minecraft:gold_ingot" },
+    "P": { "tag": "minecraft:planks" }
+  },
+  "result": { "id": "boring_more_vanilla_shields:golden_shield", "count": 1 }
+}

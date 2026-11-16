@@ -1,0 +1,15 @@
+{
+  "sources": [
+    { "type": "single", "resource": "boring_more_vanilla_shields:entity/shield/leather_base" },
+    { "type": "single", "resource": "boring_more_vanilla_shields:entity/shield/leather_base_nopattern" },
+    { "type": "single", "resource": "boring_more_vanilla_shields:entity/shield/leather_rim" },
+    { "type": "single", "resource": "boring_more_vanilla_shields:entity/shield/copper_base" },
+    { "type": "single", "resource": "boring_more_vanilla_shields:entity/shield/copper_base_nopattern" },
+    { "type": "single", "resource": "boring_more_vanilla_shields:entity/shield/golden_base" },
+    { "type": "single", "resource": "boring_more_vanilla_shields:entity/shield/golden_base_nopattern" },
+    { "type": "single", "resource": "boring_more_vanilla_shields:entity/shield/diamond_base" },
+    { "type": "single", "resource": "boring_more_vanilla_shields:entity/shield/diamond_base_nopattern" },
+    { "type": "single", "resource": "boring_more_vanilla_shields:entity/shield/netherite_base" },
+    { "type": "single", "resource": "boring_more_vanilla_shields:entity/shield/netherite_base_nopattern" }
+  ]
+}

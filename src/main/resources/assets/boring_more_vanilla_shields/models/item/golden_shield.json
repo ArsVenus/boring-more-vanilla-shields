@@ -1,0 +1,6 @@
+{
+  "parent": "boring_more_vanilla_shields:item/_shield_base",
+  "overrides": [
+    { "predicate": { "blocking": 1 }, "model": "boring_more_vanilla_shields:item/golden_shield_blocking" }
+  ]
+}
